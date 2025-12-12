@@ -1,16 +1,26 @@
-# React + Vite
+# HireSwipe Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A founder-oriented and viral hiring simulator built with React and Vite.
 
-Currently, two official plugins are available:
+## About
+Swipe between two candidates like Tinder…
+Get an ELO score…
+Save results to leaderboard…
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+✔ Tinder-style swipe decisions  
+✔ Hiring ELO scoring  
+✔ Inline leaderboard  
+✔ Shareable results
 
-## React Compiler
+## How to Run
+1. npm install  
+2. npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Used
+React, Vite, HTML2Canvas, CSS.
 
-## Expanding the ESLint configuration
+## Screenshots
+<img width="1051" height="866" alt="Screenshot 2025-12-11 at 7 35 38 PM" src="https://github.com/user-attachments/assets/324c2800-8038-4722-a412-9d6ba0a6da1d" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1008" height="368" alt="Screenshot 2025-12-11 at 7 35 48 PM" src="https://github.com/user-attachments/assets/2af1f192-ac56-4153-ab6d-76f62c463990" />
