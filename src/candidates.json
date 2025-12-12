@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Parthiv Shah",
+      "role": "Full-Stack Engineer",
+      "execution": 95,
+      "ramp": 90,
+      "attentionCost": 10,
+      "network": 60,
+      "salary": 150000
+    },
+    {
+      "id": 2,
+      "name": "Abiye Tesfaye",
+      "role": "AI Engineer",
+      "execution": 88,
+      "ramp": 80,
+      "attentionCost": 20,
+      "network": 70,
+      "salary": 160000
+    },
+    {
+      "id": 3,
+      "name": "Yunseok Kim",
+      "role": "Systems Engineer",
+      "execution": 92,
+      "ramp": 75,
+      "attentionCost": 15,
+      "network": 75,
+      "salary": 155000
+    },
+    {
+      "id": 4,
+      "name": "Dylan Reno",
+      "role": "Data Engineer",
+      "execution": 85,
+      "ramp": 70,
+      "attentionCost": 25,
+      "network": 40,
+      "salary": 145000
+    }
+  ]
+  

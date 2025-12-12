@@ -1,0 +1,255 @@
+.swipe-container {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  min-height: 100vh;
+  color: white;
+}
+
+.cards-row, .charts-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px 0;
+}
+
+.candidate-card {
+  width: 240px;
+  padding: 20px;
+  background: #222;
+  border-radius: 12px;
+}
+
+.actions {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.btn-no, .btn-yes {
+  font-size: 20px;
+  padding: 12px 24px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-no {
+  background: #ff4d4d;
+}
+
+.btn-yes {
+  background: #3ddc84;
+}
+
+.chart-row {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin-top: -20px;
+}
+
+.mini-chart {
+  margin-top: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.btn-no, .btn-yes {
+  font-size: 18px;
+  padding: 14px 26px;
+  border-radius: 10px;
+}
+
+
+
+.swipe-card {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.btn-no {
+  background: #ff4d4d;
+  padding: 14px 30px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-yes {
+  background: #3ddc84;
+  padding: 14px 30px;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+
+
+.hire-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.title {
+  font-size: 42px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.matchup-row {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  width: 100%;
+}
+
+.candidate-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.btn-left, .btn-right {
+  padding: 12px 24px;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  color: white;
+}
+
+.btn-left {
+  background: #ff4d4d;
+}
+
+.btn-right {
+  background: #3ddc84;
+}
+
+.footer {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.undo-btn {
+  padding: 10px 20px;
+  font-size: 18px;
+  background: #555;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.elo-text {
+  margin-top: 12px;
+  font-size: 20px;
+}
+
+
+.hire-container {
+  text-align: center;
+  margin-top: 50px;
+  color: white;
+}
+
+.matchup-row {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  margin-top: 40px;
+}
+
+.candidate-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.btn-left {
+  background: #ff5c5c;
+  padding: 12px 30px;
+  border-radius: 12px;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.btn-right {
+  background: #33e68a;
+  padding: 12px 30px;
+  border-radius: 12px;
+  border: none;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.undo-btn {
+  background: #444;
+  padding: 10px 25px;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.elo-text {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.share-card {
+  background: #111;
+  padding: 25px;
+  width: 320px;
+  margin: 25px auto;
+  border-radius: 15px;
+  border: 2px solid #444;
+  color: white;
+}
+
+
+.big-btn {
+  padding: 16px 26px;
+  background: #111;
+  color: white;
+  border-radius: 12px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.2s;
+  border: 1px solid #333;
+}
+
+.big-btn:hover {
+  background: #222;
+  transform: scale(1.05);
+}
+
